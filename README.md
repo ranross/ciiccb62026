@@ -1,13 +1,12 @@
-# 
+
 ROSALYN N. ALCARAZ
 
 Commonwealth, Quezon City, Philippines 01121
 Email: ranross1111@gmail.com
 Contact Number. :  08980230619
 
---------------------------------------------------
-## Professional Experience
-
+---------------------------------------------
+PROFESSIONAL EXPERIENCE
 
 Administrative Assistant
 
@@ -43,5 +42,13 @@ Software Team Lead
 - ERP Systems (SAP, Macs, etc.)
 - CRM Platforms (Salesforce, etc.), 
 - Chat and other Support Tools (Freshdesk, Slack, Hubstaff, Etc.)
+
+
+
+EDUCATION
+
+Bachelor of Science in Information Technology 
+ Polytechnic University of the Philippines - Commonwealth     
+ Don Fabian St. Commonwealth, Quezon City
 
 
