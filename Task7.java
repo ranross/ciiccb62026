@@ -6,17 +6,14 @@ public class Task7 {
         return num1 + num2;
     }
 
-    // Method to subtract two numbers
     public static double subtract(double num1, double num2) {
         return num1 - num2;
     }
 
-    // Method to multiply two numbers
     public static double multiply(double num1, double num2) {
         return num1 * num2;
     }
 
-    // Method to divide two numbers
     public static double divide(double num1, double num2) {
         if (num2 == 0) {
             System.out.println("Error: Division by zero is not allowed.");
